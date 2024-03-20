@@ -199,6 +199,18 @@
     background: rgba(255, 255, 255, .8);
 }
 
+.modal-dialog {
+    margin-top: 0%;
+}
+
+
+
+
+.input-group .form-control {
+    font-size: 1.5rem;
+}
+
+
 
 /*** Navbar End ***/
 
