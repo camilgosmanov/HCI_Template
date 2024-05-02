@@ -121,19 +121,37 @@ $(document).ready(function(){
 </script>
 
 
-<!-- Post Shop Start-->
-<div class="container d-flex justify-content-center mt-5"> <!-- Add a top margin -->
-    <div class="col-lg-4">
-        <div class="card">
-            <img src="img/test2.png" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h4 class="card-title">Featured Post</h4>
-                <p class="card-text">Example Description.</p>
+<!-- Post and Comment Section Start -->
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <!-- Post Start -->
+        <div class="col-lg-4">
+            <div class="card">
+                <img src="img/test2.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h4 class="card-title">Featured Post</h4>
+                    <p class="card-text">Example Description.</p>
+                </div>
             </div>
         </div>
+        <!-- Post End -->
+
+        <!-- Comment Section Start -->
+        <div class="col-lg-6 position-relative"> <!-- Add position-relative -->
+            <div class="card p-3 position-absolute bottom-0"> <!-- Add position-absolute and bottom-0 -->
+                <h5 class="card-title">Comments</h5>
+                <form>
+                    <div class="form-group">
+                        <textarea class="form-control" id="userComment" rows="2" placeholder="Add a comment..."></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-outline-primary btn-sm">Post Comment</button>
+                </form>
+            </div>
+        </div>
+        <!-- Comment Section End -->
     </div>
 </div>
-<!-- Post Shop End-->
+<!-- Post and Comment Section End -->
 
 
 <!-- PROFILE TEST
