@@ -10,7 +10,15 @@
     color: var(--bs-secondary) !important;
 }
 
- 
+.artist-icon:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+
+.icon-link:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
 
 /*** Spinner Start ***/
 #spinner {
@@ -25,6 +33,8 @@
      visibility: visible;
      opacity: 1;
  }
+
+
 
  .back-to-top {
     position: fixed;

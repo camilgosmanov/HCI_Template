@@ -18,7 +18,7 @@ Camil Gosmanov, Anna Sedivy-Thompson, Ryan Webb
 ## Features
 
 - Responsive design that looks great on any device
-- Google Web Fonts for beautiful typography
+- Google Web Fonts for clear typography
 - Icon Font Stylesheet for scalable vector icons
 - Libraries Stylesheet for additional styles
 - Customized Bootstrap Stylesheet for a consistent, modern design
