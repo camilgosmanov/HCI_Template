@@ -1,4 +1,4 @@
-# MySpace Website
+# Media Website HTML/CSS Template
 
 This is an improved version of the MySpace website. It's a modern, responsive website built with HTML, CSS, and JavaScript.
 
