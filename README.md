@@ -8,7 +8,7 @@ Run the 'index.html' file in the folder.
 
 Additionally, the site can be found at:
 
-[camilgosmanov.github.io/HCI_Project](camilgosmanov.github.io/HCI_Template)
+[camilgosmanov.github.io/HCI_Template](camilgosmanov.github.io/HCI_Template)
 
 
 ## Authors
